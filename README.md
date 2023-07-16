@@ -1,0 +1,1 @@
+Tecnologias: PHP, Laravel, JQuery, HTML/CSS, Bootstrap.

@@ -1,0 +1,71 @@
+body.main{
+    padding: 30px 50px 30px 50px;
+}
+
+button{
+    width: 120px;
+}
+
+button.close{
+    background-color: transparent;
+    border: none;
+    font-size: x-large;
+    margin-right: -50px;
+}
+
+button.procurar{
+    height: 30px;
+    width: 90px;
+    text-align: center;
+    font-size: 12px;
+}
+
+button.exportar{
+    width: 180px;
+    border: none;
+}
+
+div.modal-cliente{
+    align-items: center;
+}
+
+div.tabela{
+    height: 600px;
+    width: 100%;
+    margin-bottom: 30px;
+    overflow: auto;
+}
+
+table{
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+
+td.col{
+    width: 100%;
+    text-align: center;
+}
+
+tr.head{
+    font-size: 20px;
+    border: lightgray solid;
+    color: white;
+    height: 50px;
+}
+
+tr{
+    height: 100px;
+}
+
+
+thead{
+    position: sticky;
+    top: 0;
+    background-color: lightgray;
+}
+
+h2{
+    text-align: center;
+}
